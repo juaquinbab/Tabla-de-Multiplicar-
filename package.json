@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "exceljs": "^4.3.0",
+    "init": "^0.1.2",
+    "yargs": "^17.6.2"
+  },
+  "name": "03-basesnode",
+  "version": "0.0.01",
+  "description": "Tabla de multiplicar ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Camilo jimenez",
+  "license": "MIT"
+}
